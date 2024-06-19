@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @imaravsetia
-- 👀 I’m interested in bot making
-- 🌱 I’m currently learning about bots and github
-- 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me my twitter or discord arav#9010
